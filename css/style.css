@@ -249,25 +249,25 @@ nav[role="main"] a {
 
 
 .sectOne {
-	background-image: url("../images/Saanvimain.png") ;
+	background-image: url("../Images/Saanvimain.png") ;
 	width:50%;
 
 }
 .sectTwo {
-	background-image: url("../images/study.jpg") ;	
+	background-image: url("../Images/study.jpg") ;	
 	width:100%;
 }
 .sectThree {
-	background-image: url("../images/compscience.JPG") ;	
+	background-image: url("../Images/compscience.JPG") ;	
 	width:100%;
 	/* margin-top should be bottom2 - 1080px  */
 }
 .sectFour {
-	background-image: url("../images/project.jpg") ;	
+	background-image: url("../Images/project.jpg") ;	
 	width:100%;
 }
 .sectFive {
-	background-image: url("../images/study.jpg") ;	
+	background-image: url("../Images/study.jpg") ;	
 	width:100%;
 }
 
